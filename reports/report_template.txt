@@ -1,0 +1,17 @@
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+Header		Report Name : {{report_name}}            
+			Report Date/Time: {{time}}
+
+			Feature 1:	{{f1}}  
+			Feature 2:	{{f2}}   
+			K: 			{{k}}	
+
+Job Name 	:{{job_name}}
+
+Algorithm	Accur	F1Score
+KNN 		{{KNN_acc}} 	{{KNN_f1}}    
+KMeans 		{{KMeans_acc}} 	{{KMeans_f1}} 
+NBz 		{{NBz_acc}}  	{{NBZ_f1}}	
+SVM 		{{SVM_acc}} 	{{SVM_f1}}
+
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
