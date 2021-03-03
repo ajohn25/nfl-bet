@@ -1,12 +1,3 @@
-# Team Project EDA QB
-# usage:  
-#
-# 
-# History
-# -    -    -    -    -    -    -    -    -    -    -    -    -    -    -
-# Name		Date		Description
-# Aashish   11/28/2020 	Adapt Dr. Lindo's NFL QB graphs for Project EDA
-# -    -    -    -    -    -    -    -    -    -    -    -    -    -    -
 
 #import numpy as np 
 import random as rd 

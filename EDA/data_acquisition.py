@@ -1,12 +1,4 @@
-# Team Project Data Acquisition
-# usage:  
-#
-# 
-# History
-# -    -    -    -    -    -    -    -    -    -    -    -    -    -    -
-# Name		Date		Description
-# Aashish     	11/16/2020 	Initial framework to run acquisition
-    
+
 from team_utility import nflDataAcquisition
 
 def acquire(teamfilename, qbfilename, yearfilename, outputfilename): # Correlate and clean datasets

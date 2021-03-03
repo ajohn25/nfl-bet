@@ -1,12 +1,4 @@
-# Team Project
-# usage:  
-#
-# 
-# History
-# -    -    -    -    -    -    -    -    -    -    -    -    -    -    -
-# Name		Date		Description
-# Aashish   11/29/20    Add functions for optimizing models
-# -    -    -    -    -    -    -    -    -    -    -    -    -    -    -
+
 from team_utility_optimize import dataScienceOptimize, getConfigs, getConfigsJobs,getProjectReport
 from team_ml import NNObj, NBObj, SVMObj, KMObj
 

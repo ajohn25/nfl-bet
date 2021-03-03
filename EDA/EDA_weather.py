@@ -1,12 +1,3 @@
-# Team Project EDA Weather
-# usage:  
-#
-# 
-# History
-# -    -    -    -    -    -    -    -    -    -    -    -    -    -    -
-# Name		Date		Description
-# Aashish   10/12/2020 	Use for EDA of weather
-# -    -    -    -    -    -    -    -    -    -    -    -    -    -    -
 
 import requests
 import json

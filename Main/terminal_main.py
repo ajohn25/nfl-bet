@@ -1,18 +1,4 @@
-# Team Project
-# usage:  
-#
-# 
-# History
-# -    -    -    -    -    -    -    -    -    -    -    -    -    -    -
-# Name		Date		Description
-# scl     	11/07/2020 	Initial framework implemented with syntethic data
-# 						X = features selected, y = classification
-# scl 		11/08/2020	Added implementation for train and split
-# scl		11/08/2020	Add implementation for configuration file
-# Aashish   11/14/2020  Add tests for nflDataScience
-# Aashish   11/16/2020  Add K Means implementation
-# Aashish   11/22/2020  Refactor precision, clean up main
-# -    -    -    -    -    -    -    -    -    -    -    -    -    -    -
+
 from team_utility import dataScience, getConfigs, getConfigsJobs
 from team_ml import NNObj, NBObj, SVMObj, KMObj
 

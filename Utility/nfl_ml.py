@@ -1,19 +1,3 @@
-# Team ML Utility - This file contains the machine learning 
-# utility functions to be invoked by main.py.  Essentially, 
-# main.py will act as the ochestration layer for these functions.
-#
-# History
-# -    -    -    -    - -    -    -    -    - -    -    -    -    -
-# Name		Date		Description
-# scl     	11/07/2020 	Setup framework for team_ml 
-# scl  		11/07/2020	Add K-Nearest Neighbor
-# scl  		11/07/2020	Add Naive Bayes
-# scl  		11/07/2020	Add Support Vector Machines (SVM)
-# scl  		11/08/2020	Add method for scores
-# Aashish   11/16/2020  Add K-Means
-# scl       11/17/2020  Used Completeness Score to score the accuracy for KMeans
-# Aashish   11/22/2020  Add F1 Score and Homogeneity Score (for KMeans)
-# -    -    -    -    - -    -    -    -    - -    -    -    -    -
 
 # Imports for ML API from sklearn
 from sklearn.neighbors import KNeighborsClassifier
